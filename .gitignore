@@ -1,0 +1,11 @@
+[Dd]ebug/
+[Rr]elease/
+bin
+obj
+[Pp]ackages
+.vscode
+*.user
+*VC.db
+*.suo
+.vs
+*.cache
