@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">EAMS</string>
+  <string name="Hello">Hello World, Click Me!</string>
+  <string name="ApplicationName">EAMS</string>
+  <string name="drawer_open">Open</string>
+  <string name="drawer_close">Close</string>
+  <string name="delete">Delete</string>
+  <string name="action_create">Add</string>
+</resources>

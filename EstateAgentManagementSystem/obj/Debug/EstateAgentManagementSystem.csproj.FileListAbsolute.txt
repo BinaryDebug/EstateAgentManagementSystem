@@ -1,0 +1,298 @@
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.pdb
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.EstateAgentManagementSystem.apk
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.EstateAgentManagementSystem-Signed.apk
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.pdb
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.dll
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.pdb
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\bin\EstateAgentManagementSystem.EstateAgentManagementSystem.apk
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\toolbar.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\nav_header.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\mmortgagecalculatorview.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\agentscheduleview.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\webviewlayoutview.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\main.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\strings.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_done_white_24dp.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\icon.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\menu_background.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_action.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_done.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_event.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_forum.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_headset.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_menu.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_action.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_done.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_event.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_forum.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_headset.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_menu.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_action.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_done.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_event.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_forum.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_headset.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_menu.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_action.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_done.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_event.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_forum.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_headset.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_menu.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_main.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\colors.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\styles.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\splash_screen.xml
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\splash.png
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\R.cs.flag
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\uploadflags.txt
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll.mdb
+C:\Users\Tom\Dropbox\Software Engineering SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\assets\EstateAgentManagementSystem.dll.mdb
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.pdb
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.EstateAgentManagementSystem.apk
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.EstateAgentManagementSystem-Signed.apk
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.pdb
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.dll
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.pdb
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\bin\EstateAgentManagementSystem.EstateAgentManagementSystem.apk
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\toolbar.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\nav_header.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\mmortgagecalculatorview.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\agentscheduleview.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\webviewlayoutview.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\noteeditor.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\mainnotes.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\list_item.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\main.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\strings.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_done_white_24dp.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\icon.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\menu_background.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_action.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_dashboard.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_discuss.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_done.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_event.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_forum.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_headset.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_menu.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_menu_refresh.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_action.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_dashboard.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_discuss.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_done.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_event.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_forum.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_headset.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_menu.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_menu_refresh.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_action.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_dashboard.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_discuss.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_done.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_event.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_forum.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_headset.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_menu.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_menu_refresh.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_action.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_dashboard.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_discuss.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_done.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_event.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_forum.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_headset.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_menu.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_menu_refresh.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_main.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\colors.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\styles.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\splash_screen.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\splash.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_action_create_note.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_listitem_edit.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_action_create_note.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_listitem_edit.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_action_create_note.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_listitem_edit.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_action_create_note.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_listitem_edit.png
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_notes.xml
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\R.cs.flag
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\uploadflags.txt
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll.mdb
+C:\Users\thoma\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\assets\EstateAgentManagementSystem.dll.mdb
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.pdb
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.EstateAgentManagementSystem.apk
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.EstateAgentManagementSystem-Signed.apk
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_green.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.lib.e_sqlite3.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.pdb
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.dll
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.pdb
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\bin\EstateAgentManagementSystem.EstateAgentManagementSystem.apk
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\addtoscheduleview.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\toolbar.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\nav_header.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\mmortgagecalculatorview.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\agentscheduleview.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\webviewlayoutview.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\noteeditor.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\mainnotes.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\list_item.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\main.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\strings.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_done_white_24dp.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\icon.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\menu_background.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_action.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_done.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_event.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_forum.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_headset.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_menu.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_action.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_done.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_event.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_forum.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_headset.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_menu.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_action.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_done.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_event.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_forum.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_headset.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_menu.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_action.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_dashboard.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_discuss.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_done.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_event.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_forum.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_headset.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_menu.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_menu_refresh.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_main.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\colors.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\styles.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\splash_screen.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\splash.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_action_create_note.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_launcher.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-hdpi\ic_listitem_edit.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_action_create_note.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_launcher.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-mdpi\ic_listitem_edit.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_action_create_note.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_launcher.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xhdpi\ic_listitem_edit.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\mipmap-xxhdpi\ic_launcher.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_action_create_note.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_launcher.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_listitem_edit.png
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_notes.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\R.cs.flag
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\uploadflags.txt
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll.mdb
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\assets\EstateAgentManagementSystem.dll.mdb
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll
+bin\Debug\Microsoft.CSharp.pdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.IO.Compression.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\System.Numerics.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\EstateAgentManagementSystem.dll.mdb
+obj\Debug\linksrc\Microsoft.CSharp.pdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\SQLite-net.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.IO.Compression.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\System.Numerics.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb
