@@ -203,7 +203,6 @@ C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgent
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.pdb
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\SQLite-net.xml
-C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Basement.dll.stamp
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Tasks.dll.stamp
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\Xamarin.GooglePlayServices.Base.dll.stamp
@@ -284,6 +283,7 @@ C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgent
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_notes.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\R.cs.flag
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\uploadflags.txt
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll.mdb
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\assets\EstateAgentManagementSystem.dll.mdb
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\proguard\dc663e480.txt
