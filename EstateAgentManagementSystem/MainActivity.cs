@@ -93,6 +93,10 @@ namespace EstateAgentManagementSystem
                     // The fragment will have the ID of Resource.Id.fragment_container.
                     ft.Replace(Resource.Id.ll, nn);
                 }
+                else if (e.MenuItem.ItemId == Resource.Id.nav_googlemaps)
+                {
+                    StartActivity(typeof(GoogleMapsActivity));
+                }
 
                 // Commit the transaction.
                 ft.Commit();

@@ -18,6 +18,10 @@
       android:icon="@mipmap/ic_forum"
       android:title="Zoopla" />
     <item
+      android:id="@+id/nav_googlemaps"
+      android:icon="@mipmap/ic_forum"
+      android:title="Google Maps" />
+    <item
       android:id="@+id/nav_agentschedule"
       android:icon="@mipmap/ic_forum"
       android:title="Agent Schedule" />
