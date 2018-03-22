@@ -33,9 +33,7 @@ namespace EstateAgentManagementSystem
 
 		    Button btnSaveNote = FindViewById<Button>(Resource.Id.btnSaveNote);
 		    btnSaveNote.Click += btnSaveNoteClick;
-
-
-		}
+        }
 
 	    private void btnSaveNoteClick(object sender, EventArgs e)
 	    {

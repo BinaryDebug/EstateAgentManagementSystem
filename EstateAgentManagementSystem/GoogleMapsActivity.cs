@@ -24,12 +24,20 @@ namespace EstateAgentManagementSystem
         {
             base.OnCreate(bundle);
             SetContentView(Resource.Layout.GoogleMapsView);
+            Button searchbutton = FindViewById<Button>(Resource.Id.searchButton);
+
+            searchbutton.Click += Searchbutton_Click;
 
             if (GMap == null)
             {
                 FragmentManager.FindFragmentById<MapFragment>(Resource.Id.map).GetMapAsync(this);
             }
 
+        }
+
+        private void Searchbutton_Click(object sender, EventArgs e)
+        {
+            EditText searchCriteriaText = FindViewById<EditText>(Resource.Id.searchCriteriaText);
         }
 
         public void OnMapReady(GoogleMap googleMap)
