@@ -13,6 +13,8 @@ using Android.Widget;
 using System.Globalization;
 using Android.Gms.Maps;
 using Android.Gms.Maps.Model;
+using Android.Locations;
+using Android.Views.InputMethods;
 
 namespace EstateAgentManagementSystem
 {
@@ -26,7 +28,7 @@ namespace EstateAgentManagementSystem
             SetContentView(Resource.Layout.GoogleMapsView);
             Button searchbutton = FindViewById<Button>(Resource.Id.searchButton);
 
-            searchbutton.Click += Searchbutton_Click;
+            searchbutton.Click += Searchbutton_Click; //Search Google Maps with chosen criteria
 
             if (GMap == null)
             {
@@ -38,35 +40,49 @@ namespace EstateAgentManagementSystem
         private void Searchbutton_Click(object sender, EventArgs e)
         {
             EditText searchCriteriaText = FindViewById<EditText>(Resource.Id.searchCriteriaText);
+            Geocoder searchGeocoder;
+            Address searchAddress;
+            LatLng searchLocation;
+            if (searchCriteriaText.Text != "")
+            {
+                try
+                {
+                    //Hide the keyboard when the search button is clicked
+                    InputMethodManager inputManager = (InputMethodManager) this.GetSystemService(InputMethodService);
+                    inputManager.HideSoftInputFromWindow(this.CurrentFocus.WindowToken, HideSoftInputFlags.NotAlways);
+
+                    searchGeocoder = new Geocoder(this);
+                    searchAddress = searchGeocoder.GetFromLocationName(searchCriteriaText.Text, 1).ToList()
+                        .LastOrDefault();
+                    searchLocation = new LatLng(searchAddress.Latitude, searchAddress.Longitude);
+                    GMap.AnimateCamera(CameraUpdateFactory.NewLatLngZoom(searchLocation, 17));
+                    GMap.Clear();
+                    MarkerOptions options = new MarkerOptions()
+                        .SetPosition(searchLocation)
+                        .SetTitle(searchCriteriaText.Text);
+                    GMap.AddMarker(options);
+
+                }
+                catch (NullReferenceException)
+                {
+                    Toast.MakeText(ApplicationContext, "Error: Unable to locate, please try again", ToastLength.Long).Show();
+                }
+            }
         }
 
         public void OnMapReady(GoogleMap googleMap)
         {
-//            MarkerOptions markerOptions = new MarkerOptions();
-//            markerOptions.SetPosition(new LatLng(16.03, 108));
-//            markerOptions.SetTitle("My Position");
-//            googleMap.AddMarker(markerOptions);
-//
-//            googleMap.TrafficEnabled = true;
-//            googleMap.MapType = GoogleMap.MapTypeHybrid;
-//            CameraUpdate cam = CameraUpdateFactory.NewLatLngZoom(markerOptions.Position, 15);
-//
-//            googleMap.MoveCamera(cam);
-//            googleMap.UiSettings.ZoomControlsEnabled = true;
-//            googleMap.UiSettings.CompassEnabled = true;
-//            googleMap.MoveCamera(CameraUpdateFactory.ZoomIn());
-
             this.GMap = googleMap;
 
             GMap.UiSettings.ZoomControlsEnabled = true;
 
-            LatLng latLng = new LatLng(Convert.ToDouble(13.0291), Convert.ToDouble(80.2083));
+            LatLng latLng = new LatLng(Convert.ToDouble(53.381129), Convert.ToDouble(-1.470085)); //Sheffield
             CameraUpdate camera = CameraUpdateFactory.NewLatLngZoom(latLng, 15);
             GMap.MoveCamera(camera);
 
             MarkerOptions options = new MarkerOptions()
                 .SetPosition(latLng)
-                .SetTitle("A title");
+                .SetTitle("Sheffield");
 
             GMap.AddMarker(options);
         }
