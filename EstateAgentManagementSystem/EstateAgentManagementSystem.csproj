@@ -144,6 +144,7 @@
     <Compile Include="AddToScheduleActivity.cs" />
     <Compile Include="AgentScheduleFragment.cs" />
     <Compile Include="GoogleMapsActivity.cs" />
+    <Compile Include="HomeFragment.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="MMortgageCalculatorFragment.cs" />
     <Compile Include="NoteEditorActivity.cs" />
@@ -192,6 +193,9 @@
     </AndroidResource>
     <AndroidResource Include="Resources\layout\List_item.axml" />
     <AndroidResource Include="Resources\layout\GoogleMapsView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\HomeView.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

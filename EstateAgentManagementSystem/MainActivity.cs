@@ -33,6 +33,13 @@ namespace EstateAgentManagementSystem
 
             SetContentView(Resource.Layout.Main);
 
+
+            FragmentTransaction ft = this.FragmentManager.BeginTransaction();
+            HomeFragment hf = new HomeFragment();
+            ft.Replace(Resource.Id.ll, hf);
+            ft.Commit();
+
+
             #region Menu
 
             drawerLayout = FindViewById<DrawerLayout>(Resource.Id.c_drawer_layout);
@@ -58,6 +65,8 @@ namespace EstateAgentManagementSystem
 
         private void SetupDrawerContent(NavigationView navigationView)
         {
+            navigationView.SetCheckedItem(Resource.Id.nav_home);
+
             navigationView.NavigationItemSelected += (sender, e) =>
             {
                 e.MenuItem.SetChecked(true);
@@ -96,6 +105,12 @@ namespace EstateAgentManagementSystem
                 else if (e.MenuItem.ItemId == Resource.Id.nav_googlemaps)
                 {
                     StartActivity(typeof(GoogleMapsActivity));
+                }
+                else if (e.MenuItem.ItemId == Resource.Id.nav_home)
+                {
+                    HomeFragment hf = new HomeFragment();
+                    // The fragment will have the ID of Resource.Id.fragment_container.
+                    ft.Replace(Resource.Id.ll, hf);
                 }
 
                 // Commit the transaction.
