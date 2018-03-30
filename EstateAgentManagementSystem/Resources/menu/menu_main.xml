@@ -7,15 +7,15 @@
       android:title="Home" />
     <item
       android:id="@+id/nav_mortgagecalc"
-      android:icon="@mipmap/ic_event"
+      android:icon="@mipmap/ic_discuss"
       android:title="Mortgage Calculator" />
     <item
       android:id="@+id/nav_rightmovewebview"
-      android:icon="@mipmap/ic_headset"
+      android:icon="@mipmap/ic_action"
       android:title="Rightmove" />
     <item
       android:id="@+id/nav_zooplawebview"
-      android:icon="@mipmap/ic_forum"
+      android:icon="@mipmap/ic_action"
       android:title="Zoopla" />
     <item
       android:id="@+id/nav_googlemaps"
@@ -27,7 +27,11 @@
       android:title="Agent Schedule" />
     <item
       android:id="@+id/nav_notes"
-      android:icon="@mipmap/ic_forum"
+      android:icon="@mipmap/ic_done"
       android:title="Notes" />
+    <item
+      android:id="@+id/nav_camera"
+      android:icon="@mipmap/ic_dashboard"
+      android:title="Camera" />
   </group>
 </menu>

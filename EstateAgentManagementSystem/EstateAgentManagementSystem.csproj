@@ -143,6 +143,7 @@
   <ItemGroup>
     <Compile Include="AddToScheduleActivity.cs" />
     <Compile Include="AgentScheduleFragment.cs" />
+    <Compile Include="CameraFragment.cs" />
     <Compile Include="GoogleMapsActivity.cs" />
     <Compile Include="HomeFragment.cs" />
     <Compile Include="MainActivity.cs" />
@@ -196,6 +197,9 @@
       <SubType>Designer</SubType>
     </AndroidResource>
     <AndroidResource Include="Resources\layout\HomeView.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+    <AndroidResource Include="Resources\layout\CameraView.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

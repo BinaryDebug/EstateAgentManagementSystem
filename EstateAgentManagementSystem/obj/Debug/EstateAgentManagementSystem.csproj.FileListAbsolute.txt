@@ -221,6 +221,8 @@ C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgent
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\mainnotes.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\list_item.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\googlemapsview.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\homeview.xml
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\cameraview.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\main.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\values\strings.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\drawable\ic_done_white_24dp.png
@@ -283,10 +285,14 @@ C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgent
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_notes.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\R.cs.flag
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\uploadflags.txt
-C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\layout\homeview.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll.mdb
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\assets\EstateAgentManagementSystem.dll.mdb
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\proguard\dc663e480.txt
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\dc663e48.proguard.stamp
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\0757626b.proguard.stamp
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\2f4d086a.proguard.stamp
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\ea5c07c4.proguard.stamp
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll
 bin\Debug\Microsoft.CSharp.pdb
 bin\Debug\Mono.Android.pdb
