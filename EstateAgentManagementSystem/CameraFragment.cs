@@ -40,7 +40,7 @@ namespace EstateAgentManagementSystem
 
             Intent intent = new Intent(MediaStore.ActionImageCapture);
             App._file = new File(App._dir, String.Format("myPhoto_{0}.jpg", Guid.NewGuid()));
-            intent.PutExtra(MediaStore.ExtraOutput, App._file);
+            intent.PutExtra(MediaStore.ExtraOutput, App._file.AbsolutePath);
             StartActivityForResult(intent, 0);
 
             return view;
@@ -60,10 +60,10 @@ namespace EstateAgentManagementSystem
 
             // Make it available in the gallery
 
-            //Intent mediaScanIntent = new Intent(Intent.ActionMediaScannerScanFile);
-            ////Uri contentUri = App._file.AbsoluteFile.ToURI();
+            Intent mediaScanIntent = new Intent(Intent.ActionMediaScannerScanFile);
+            //Uri contentUri = App._file.AbsoluteFile.ToURI();
             //mediaScanIntent.SetData(App._file.AbsoluteFile.ToURI());
-            //SendBroadcast (mediaScanIntent);
+            //SendBroadcast(mediaScanIntent);
 
             // Display in ImageView. We will resize the bitmap to fit the display.
             // Loading the full sized image will consume to much memory
