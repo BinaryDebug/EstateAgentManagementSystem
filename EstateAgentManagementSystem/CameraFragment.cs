@@ -69,17 +69,26 @@ namespace EstateAgentManagementSystem
             // Loading the full sized image will consume to much memory
             // and cause the application to crash.
 
-            int height = Resources.DisplayMetrics.HeightPixels;
-            int width = _imageView.Height;
-            App.bitmap = App._file.Path.LoadAndResizeBitmap(width, height);
-            if (App.bitmap != null)
+            try
             {
+                App.bitmap = (Bitmap) data.Extras.Get("data");
                 _imageView.SetImageBitmap(App.bitmap);
-                App.bitmap = null;
             }
+            catch (Exception)
+            { }
+
+
+            //int height = Resources.DisplayMetrics.HeightPixels;
+            //int width = _imageView.Height;
+            //App.bitmap = App._file.Path.LoadAndResizeBitmap(width, height);
+            //if (App.bitmap != null)
+            //{
+            //    _imageView.SetImageBitmap(App.bitmap);
+            //    App.bitmap = null;
+            //}
 
             // Dispose of the Java side bitmap.
-            GC.Collect();
+            //GC.Collect();
         }
     }
 

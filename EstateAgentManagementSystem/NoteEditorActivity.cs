@@ -7,15 +7,18 @@ using Android.App;
 using Android.Content;
 using Android.OS;
 using Android.Runtime;
+using Android.Speech.Tts;
 using Android.Views;
 using Android.Widget;
+using Java.Util;
 
 namespace EstateAgentManagementSystem
 {
 	[Activity (Label = "Editor", Theme = "@style/NotesEditTheme", Icon = "@drawable/ic_launcher")]			
-	public class NoteEditorActivity : Activity
+	public class NoteEditorActivity : Activity, TextToSpeech.IOnInitListener
 	{
 		private NoteItem noteItem;
+	    private TextToSpeech tts;
 		protected override void OnCreate (Bundle bundle)
 		{
             //ActionBar.Show();
@@ -33,6 +36,14 @@ namespace EstateAgentManagementSystem
 
 		    Button btnSaveNote = FindViewById<Button>(Resource.Id.btnSaveNote);
 		    btnSaveNote.Click += btnSaveNoteClick;
+
+            tts = new TextToSpeech(this, this);
+		    Button btnReadNote = FindViewById<Button>(Resource.Id.btnReadNote);
+		    btnReadNote.Click += delegate
+		    {
+                SpeakOut();
+		    };
+
         }
 
 	    private void btnSaveNoteClick(object sender, EventArgs e)
@@ -48,7 +59,7 @@ namespace EstateAgentManagementSystem
 			intent.PutExtra ("key", noteItem.Key.ToString());
 			intent.PutExtra ("text", noteText);
 			SetResult (Result.Ok, intent);
-			Finish ();
+			Finish();
 		}
 
 		public override bool OnOptionsItemSelected (IMenuItem item)
@@ -69,5 +80,22 @@ namespace EstateAgentManagementSystem
 		{
 			saveAndFinish();
 		}
-	}
+
+        public void OnInit([GeneratedEnum] OperationResult status)
+        {
+            if (status == OperationResult.Success)
+            {
+                tts.SetLanguage(Locale.English);
+            }
+        }
+
+	    private void SpeakOut()
+	    {
+	        EditText text = FindViewById<EditText>(Resource.Id.noteText);
+	        if (!String.IsNullOrEmpty(text.Text))
+	        {
+	            tts.Speak(text.Text, QueueMode.Flush, null);
+	        }
+	    }
+    }
 }
