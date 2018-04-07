@@ -89,6 +89,8 @@ namespace EstateAgentManagementSystem
         private void refreshList()
         {
             RegisterForContextMenu(ListView);
+            var table = db.Table<Schedule>();
+            scheduleList = table.ToList();
             ArrayAdapter adapter = new ArrayAdapter(this.Context, Android.Resource.Layout.SimpleListItem1, scheduleList);
             ListAdapter = adapter;
         }
@@ -116,6 +118,11 @@ namespace EstateAgentManagementSystem
             }
 
             return base.OnContextItemSelected(item);
+        }
+
+        public override void OnActivityResult(int requestCode, Result resultCode, Intent data)
+        {
+            refreshList();
         }
     }
 }

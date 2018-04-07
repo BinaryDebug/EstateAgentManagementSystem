@@ -45,7 +45,7 @@ namespace EstateAgentManagementSystem
 
         public override string ToString()
         {
-            return ClientName + " " + ClientNumber;
+            return "Name: " + ClientName + "\nAddress: " + ClientAddress + "\nDate: " + Date + "\nTime:" + Time;
         }
     }
 }
