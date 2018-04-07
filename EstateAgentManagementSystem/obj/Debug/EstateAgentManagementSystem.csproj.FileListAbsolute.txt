@@ -285,9 +285,9 @@ C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgent
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\res\menu\menu_notes.xml
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\R.cs.flag
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\uploadflags.txt
-C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\bin\Debug\EstateAgentManagementSystem.dll.mdb
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\android\assets\EstateAgentManagementSystem.dll.mdb
+C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\EstateAgentManagementSystem.csprojResolveAssemblyReference.cache
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\proguard\dc663e480.txt
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\dc663e48.proguard.stamp
 C:\Users\Tom\Dropbox\SHU\DissertationApp\EstateAgentManagementSystem\EstateAgentManagementSystem\obj\Debug\XbdMerge\0757626b.proguard.stamp

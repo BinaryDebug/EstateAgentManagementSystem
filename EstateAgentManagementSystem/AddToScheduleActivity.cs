@@ -45,6 +45,7 @@ namespace EstateAgentManagementSystem
             db.CreateTable<Schedule>();
             Schedule mySchedule = new Schedule(clientNameEditText.Text, phoneNumberEditText.Text, addressEditText.Text, dateEditText.Text, timeEditText.Text, propertyTypeEditText.Text);
             db.Insert(mySchedule);
+            saveAndFinish();
         }
 
         private void saveAndFinish()
