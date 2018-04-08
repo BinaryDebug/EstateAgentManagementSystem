@@ -13,6 +13,7 @@ using SQLite;
 using Environment = System.Environment;
 using System.IO;
 using Android.Support.V7.Widget;
+using Newtonsoft.Json;
 
 namespace EstateAgentManagementSystem
 {
@@ -36,50 +37,24 @@ namespace EstateAgentManagementSystem
             View view = LayoutInflater.From(Activity).Inflate(Resource.Layout.AgentScheduleView, null);
 
             db = new SQLiteConnection(dbPath);
+
+            db.CreateTable<Schedule>();
+
             Button btnAddToSchedule = view.FindViewById<Button>(Resource.Id.btnAddToSchedule);
             btnAddToSchedule.Click += btnAddToScheduleClick;
             var table = db.Table<Schedule>();
 
             scheduleList = table.ToList();
 
-            //refreshList();
-
-            //Button button = view.FindViewById<Button>(Resource.Id.myButton);
-
-            //button.Click += delegate
-            //{
-            //    var db = new SQLiteConnection(dbPath);
-
-            //    db.CreateTable<Schedule>();
-
-            //    Schedule mySchedule = new Schedule("Testing", "101938893");
-
-            //    db.Insert(mySchedule);
-            //};
-
-            //Button getButton = view.FindViewById<Button>(Resource.Id.myGetButton);
-
-            //getButton.Click += delegate
-            //{
-            //    TextView displayText = view.FindViewById<TextView>(Resource.Id.txtGettedDataYo);
-            //    var db = new SQLiteConnection(dbPath);
-
-
-            //    var table = db.Table<Schedule>();
-
-            //    foreach (var item in table)
-            //    {
-            //        Schedule mySchedule = new Schedule(item.Name, item.PhoneNumber);
-            //        db.Delete(mySchedule);
-            //        displayText.Text += mySchedule + "\n";
-            //    }
-            //};
-
-
-
-
-
             return view;
+        }
+
+        public override void OnListItemClick(ListView l, View v, int position, long id)
+        {
+            Schedule scheduleItem = scheduleList[position];
+            Intent intent = new Intent(this.Activity, typeof(AddToScheduleActivity));
+            intent.PutExtra("Schedule", JsonConvert.SerializeObject(scheduleItem));
+            StartActivityForResult(intent, EDITOR_ACTIVITY_REQUEST);
         }
 
         public override void OnViewCreated(View view, Bundle savedInstanceState)
@@ -98,7 +73,7 @@ namespace EstateAgentManagementSystem
         private void btnAddToScheduleClick(object sender, EventArgs e)
         {
             Intent intent = new Intent(this.Activity, typeof(AddToScheduleActivity));
-            StartActivityForResult(intent, 1001);
+            StartActivityForResult(intent, EDITOR_ACTIVITY_REQUEST);
         }
 
         public override void OnCreateContextMenu(IContextMenu menu, View v, IContextMenuContextMenuInfo menuInfo)
